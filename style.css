@@ -10,7 +10,7 @@ body {
 }
 .container {
   width: 360px;
-  height: 70vh;
+  height: 80vh;
   border-radius: 20px;
   background-color: white;
   margin: 0 auto;
@@ -70,7 +70,6 @@ button:hover{
 @media (max-width: 500px) {
   .container {
     width: 85%;
-    height: 80vh;
     padding: 20px;
     overflow-y: auto;
   }
